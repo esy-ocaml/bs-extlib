@@ -13,3 +13,6 @@
 /test/extlib_test
 /test/extlib_test.exe
 /test/util/zlib-test/zlib-test
+/node_modules
+/lib
+/.merlin

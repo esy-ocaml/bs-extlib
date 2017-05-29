@@ -1,0 +1,15 @@
+{
+  "name": "bs-extlib",
+  "bsc-flags": [
+    "-no-alias-deps",
+    "-w",
+    "-40+6+7+27+32..39+44+45",
+    "-pp",
+    "'cppo -D OCAML4 -D OCAML4_02 -D WITH_BYTES'"
+  ],
+  "sources": [
+    {
+      "dir": "src/"
+    }
+  ]
+}

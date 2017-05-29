@@ -1,0 +1,11 @@
+{
+  "name": "bs-extlib",
+  "version": "1.7.2",
+  "description": "OCaml Extended standard Library - ExtLib. =========================================",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "bs-platform": "^1.7.4"
+  }
+}
